@@ -366,3 +366,23 @@ cd src/
 g++ -o server27 server.cpp
 vi server.cpp
 clear
+mkdir system-programming
+cd system-programming
+mv ../ipc.
+cd ..
+git init
+git config --global user.name "Prayas Mohanty" 
+git config --global user.email "Prayas@isdac.net"
+git add .
+git commit -m "First Commit"
+git branch -M main
+git add originhttps://github.com/syedkarimullaasif/system-programming.git
+git init
+clear
+git config --global user.name "syedkarimullaasif" 
+git config --global user.email "syedkarimullaasif@isdac.net"
+git add .
+git commit -m "First Commit"
+git branch -M main
+git add originhttps://github.com/syedkarimullaasif/system-programming.git
+git add origin https://github.com/syedkarimullaasif/system-programming.git
